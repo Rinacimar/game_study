@@ -19,6 +19,7 @@
 Tecnologias utilizadas:
 
 - Java
+- Eclipse
 - Git e Github
 
 ## 💻 Projeto
